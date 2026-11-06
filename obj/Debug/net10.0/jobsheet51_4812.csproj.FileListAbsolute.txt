@@ -1,0 +1,14 @@
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.AssemblyInfoInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.AssemblyInfo.cs
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.csproj.CoreCompileInputs.cache
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\bin\Debug\net10.0\jobsheet51_4812.exe
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\bin\Debug\net10.0\jobsheet51_4812.deps.json
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\bin\Debug\net10.0\jobsheet51_4812.runtimeconfig.json
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\bin\Debug\net10.0\jobsheet51_4812.dll
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\bin\Debug\net10.0\jobsheet51_4812.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.dll
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\refint\jobsheet51_4812.dll
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.pdb
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\jobsheet51_4812.genruntimeconfig.cache
+D:\DPK-PPLG\SemesterGanjil\Bab05\ImeldaSribintani\jobsheet51_4812\obj\Debug\net10.0\ref\jobsheet51_4812.dll
